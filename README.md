@@ -1,4 +1,4 @@
-\# Python Time Series Anomaly Detection (PyTSAD)
+# Python Time Series Anomaly Detection (PyTSAD)
 A Python Toolbox for Time Series Anomaly Detection
 Build a platform based on unsupervised learning for multivariate time series anomaly detection.
 To enhance advanced BI analysis and provide solutions to answer questions like what the trend is and when we will have to increase our system capacity. 
